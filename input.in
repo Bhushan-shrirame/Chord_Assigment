@@ -1,0 +1,29 @@
+create-network 4
+node-join 2
+node-join 3
+node-join 5
+node-join 6
+node-join 12
+key-find 8
+display
+delete-node 4
+delete-node 3
+delete-node 2
+display
+key-find 0
+key-find 1
+key-find 2
+key-find 3
+key-find 4
+key-find 5
+key-find 6
+key-find 7
+key-find 8
+key-find 9
+key-find 10
+key-find 11
+key-find 12
+key-find 13
+key-find 14
+key-find 15
+display
